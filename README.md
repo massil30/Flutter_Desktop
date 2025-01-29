@@ -1,6 +1,9 @@
 # sina
 
-A new Flutter application.
+A new Flutter application   
+Using Hive package as Local Database.
+  The goals : 
+    is to train on using CRUD operations.
 
 ## Getting Started
 
